@@ -14,7 +14,6 @@ This repository contains an interactive Power BI dashboard built using Netflix's
 ##  Dataset
 
 - **File**: `netflix_titles.xlsx`
-- **Source**: [Kaggle – Netflix Shows](https://www.kaggle.com/shivamb/netflix-shows)
 - **Attributes**:
   - Title, Type (Movie/TV Show)
   - Director, Cast
