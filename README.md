@@ -5,13 +5,13 @@ This repository contains an interactive Power BI dashboard built using Netflix's
 
 ## 📊 Dashboard Features
 
-- 📌 Overview of total titles, movies vs. TV shows
-- 📈 Trend analysis of content released and added over the years
-- 🌍 Country-wise distribution of Netflix content
-- 🎭 Genre-wise analysis and popularity
-- 🎬 Most featured actors and directors
+-  Overview of total titles, movies vs. TV shows
+-  Trend analysis of content released and added over the years
+-  Country-wise distribution of Netflix content
+-  Genre-wise analysis and popularity
+-  Most featured actors and directors
 
-## 🗂 Dataset
+##  Dataset
 
 - **File**: `netflix_titles.xlsx`
 - **Source**: [Kaggle – Netflix Shows](https://www.kaggle.com/shivamb/netflix-shows)
@@ -24,7 +24,7 @@ This repository contains an interactive Power BI dashboard built using Netflix's
   - Duration
   - Description
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Power BI Desktop** – For building interactive visualizations
 - **Excel (.xlsx)** – Dataset source format
